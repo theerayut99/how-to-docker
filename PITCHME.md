@@ -1,3 +1,5 @@
+---?color=linear-gradient(180def, white 75%, black 25%)
+
 @snap[north span-100 text-white]
 ### Docker คืออะไร  
 @snapend
