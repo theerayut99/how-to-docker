@@ -1,4 +1,6 @@
+@snap[north span-100 text-white]
 ### Docker คืออะไร  
+@snapend
 
 @snap[west span-50]
 **Docker** มันก็คือ Virtualization อย่างนึง โดยมันจะสร้าง Containers เพื่อจำลองสภาพแวดล้อมการทำงานอยู่บนระดับ OS เลย ซึ่งจะต่างกับ VMs ที่ต้องจำลอง Guest OS โดยใช้ Hypervisor (VMware, Virtual Box) ขึ้นมาก่อน  
